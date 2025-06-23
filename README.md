@@ -54,9 +54,6 @@ I'm **Eka Krisna Ferian**
 </p>
 
 ---
-
-### 🕹️ Pac-Man Contribution Graph
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jooharver/jooharver/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jooharver/jooharver/output/pacman-contribution-graph.svg">
